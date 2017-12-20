@@ -5,6 +5,9 @@ course](https://tylermcginnis.com/courses/react-fundamentals/).
 
 In GitHub Battle you enter two GitHub usernames and it will declare a winner.
 
+[Demo](https://github-battle-rf.firebaseapp.com/) (hosted at
+[Firebase](https://firebase.google.com/)).
+
 ## Running on local machine
 
 You need [Node.js](https://nodejs.org/) installed in your system to run the app.
